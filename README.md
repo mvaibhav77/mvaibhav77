@@ -6,6 +6,11 @@ Welcome to my GitHub profile! I'm a passionate React developer with a keen inter
 
 I have been working in the field of web development for several years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
 
+## Stats
+![mvaibhav77's Stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![mvaibhav77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvaibhav77&theme=vue-dark&hide_border=false)
+![mvaibhav77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvaibhav77&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
 ## My React Projects
 
 Here are some of the notable React projects I've worked on:
