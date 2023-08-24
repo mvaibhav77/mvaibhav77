@@ -7,9 +7,12 @@ Welcome to my GitHub profile! I'm a passionate React developer with a keen inter
 I have been working in the field of web development for several years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
 
 ## Stats
-![mvaibhav77's Stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![mvaibhav77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvaibhav77&theme=vue-dark&hide_border=false)
-![mvaibhav77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvaibhav77&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvaibhav77&theme=dark&layout=compact)
+
+
+
+
 
 ## My React Projects
 
@@ -17,9 +20,15 @@ Here are some of the notable React projects I've worked on:
 
 1. [Support Token Service](link-to-repo): The Support Desk MERN App is a web application that allows users to submit support tickets for issues they encounter. It helps in managing and tracking support requests efficiently. The app is built using the MERN stack, providing a smooth and seamless user experience.
 
-2. [Unheard](link-to-repo): Unheard is a powerful platform designed to offer support and assistance to women facing socially sensitive issues. It connects women with healthcare professionals and NGOs, providing them with a safe and confidential space to seek help, guidance, and access to essential resources. The project is developed with a focus on addressing real-world challenges and contributing to the United Nations' Sustainable Development Goals.
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=support-desk-react&theme=dark)](https://github.com/mvaibhav77/support-desk-react)
+
+3. [Unheard](link-to-repo): Unheard is a powerful platform designed to offer support and assistance to women facing socially sensitive issues. It connects women with healthcare professionals and NGOs, providing them with a safe and confidential space to seek help, guidance, and access to essential resources. The project is developed with a focus on addressing real-world challenges and contributing to the United Nations' Sustainable Development Goals.
+
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=unheard-main&theme=dark)](https://github.com/mvaibhav77/unheard-main)
 
 3. [HouseMarket App](link-to-repo): Find and list houses for sale or for rent. This is a React / Firebase v9 project from the React Front To Back 2022 course.
+
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=house-marketplace-app&theme=dark)](https://github.com/mvaibhav77/house-marketplace-app)
 
 Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve my skills and deliver better solutions.
 
