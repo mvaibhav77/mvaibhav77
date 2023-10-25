@@ -1,18 +1,20 @@
+<p align="center">
+    <img src="https://github.com/mvaibhav77/mvaibhav77/assets/100420038/06e9cfcc-e3dc-40a6-a93b-d919b6fe31d1"
+        height="130" width="130">
+</p>
+
 # Hi there, I'm Vaibhav!
 
 Welcome to my GitHub profile! I'm a passionate React developer with a keen interest in exploring the world of blockchain, Solidity, and AWS. Here, you'll find a collection of my projects and contributions related to React development.
+
 
 ## About Me
 
 I have been working in the field of web development for several years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
 
 ## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mvaibhav77&theme=dark)](https://git.io/streak-stats)
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvaibhav77&theme=dark&layout=compact)
-
-
-
-
 
 ## My React Projects
 
