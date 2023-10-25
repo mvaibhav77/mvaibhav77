@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://github.com/mvaibhav77/mvaibhav77/assets/100420038/06e9cfcc-e3dc-40a6-a93b-d919b6fe31d1"
-        height="130" width="130">
-</p>
-
 # Hi there, I'm Vaibhav!
 
 Welcome to my GitHub profile! I'm a passionate React developer with a keen interest in exploring the world of blockchain, Solidity, and AWS. Here, you'll find a collection of my projects and contributions related to React development.
