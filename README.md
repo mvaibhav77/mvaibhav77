@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate React developer with a keen inter
 I have been working in the field of web development for several years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mvaibhav77&theme=dark)](https://git.io/streak-stats)
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=dark&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mvaibhav77&theme=dark&card_width=400)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=dark&show_icons=true&card_width=400)
 
 ## My React Projects
 
