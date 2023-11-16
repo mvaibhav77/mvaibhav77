@@ -7,13 +7,12 @@ Welcome to my GitHub profile! I'm a passionate React developer with a keen inter
 
 I have been working in the field of web development for several years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
 
-## Hacktoberfest 2023
-[![An image of @mvaibhav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvaibhav77)](https://holopin.io/@mvaibhav77)
-
-
 ## Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mvaibhav77&theme=dark&card_width=400)
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvaibhav77&theme=dark&show_icons=true&card_width=400)
+
+## Hacktoberfest 2023
+[![An image of @mvaibhav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvaibhav77)](https://holopin.io/@mvaibhav77)
 
 ## My React Projects
 
