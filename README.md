@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav!
 
-Welcome to my GitHub profile! I'm a passionate React developer with a keen interest in exploring the world of blockchain, Solidity, and AWS. Here, you'll find a collection of my projects and contributions related to React development.
+Welcome to my GitHub profile! I'm a passionate React developer with a keen interest in exploring the world of blockchain and Solidity. Here, you'll find a collection of my projects and contributions related to React development.
 
 
 ## About Me
