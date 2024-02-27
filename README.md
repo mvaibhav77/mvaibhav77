@@ -14,28 +14,6 @@ I have been working in the field of web development for 3+ years, and React has 
 ## Hacktoberfest 2023
 [![An image of @mvaibhav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mvaibhav77)](https://holopin.io/@mvaibhav77)
 
-## My React Projects
-
-Here are some of the notable React projects I've worked on:
-
-1. [Support Token Service](link-to-repo): The Support Desk MERN App is a web application that allows users to submit support tickets for issues they encounter. It helps in managing and tracking support requests efficiently. The app is built using the MERN stack, providing a smooth and seamless user experience.
-
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=support-desk-react&theme=dark)](https://github.com/mvaibhav77/support-desk-react)
-
-3. [Unheard](link-to-repo): Unheard is a powerful platform designed to offer support and assistance to women facing socially sensitive issues. It connects women with healthcare professionals and NGOs, providing them with a safe and confidential space to seek help, guidance, and access to essential resources. The project is developed with a focus on addressing real-world challenges and contributing to the United Nations' Sustainable Development Goals.
-
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=unheard-main&theme=dark)](https://github.com/mvaibhav77/unheard-main)
-
-3. [HouseMarket App](link-to-repo): Find and list houses for sale or for rent. This is a React / Firebase v9 project from the React Front To Back 2022 course.
-
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvaibhav77&repo=house-marketplace-app&theme=dark)](https://github.com/mvaibhav77/house-marketplace-app)
-
-Feel free to explore these projects and provide feedback or suggestions. I'm always looking for ways to improve my skills and deliver better solutions.
-
-## What I'm Learning
-
-Currently, I'm delving into the exciting world of blockchain development. I'm exploring Solidity, the programming language used to write smart contracts for various blockchain platforms. Additionally, I'm expanding my knowledge of AWS services to leverage cloud technologies effectively.
-
 ## Get in Touch
 
 I'm open to collaborations, discussions, and learning from fellow developers. If you have any questions, ideas, or just want to chat, feel free to reach out to me through [email](mailto:shukla.vaibhav1077@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-shukla-319045210/).
