@@ -1,11 +1,6 @@
-# Hi there, I'm Vaibhav!
+## Hi there, I'm Vaibhav!
 
-Welcome to my GitHub profile! I'm a passionate React developer with a keen interest in exploring the world of blockchain and Solidity. Here, you'll find a collection of my projects and contributions related to React development.
-
-
-## About Me
-
-I have been working in the field of web development for 3+ years, and React has become my favorite framework for building dynamic and interactive user interfaces. I enjoy creating scalable and performant web applications using the latest React features and best practices.
+Welcome to my GitHub profile! I'm a full-stack developer with a passion for crafting dynamic and performant user interfaces using React.js and Node.js. I'm skilled in leveraging the latest React features and best practices to build scalable web applications. Currently, I'm expanding my skillset by learning TypeScript and Angular.
 
 ## Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mvaibhav77&theme=dark&card_width=400)
