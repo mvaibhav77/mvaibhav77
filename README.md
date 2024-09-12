@@ -18,7 +18,7 @@ I'm open to collaborations, discussions, and learning from fellow developers. If
 You can also find me on other platforms:
 
 - [Twitter](https://twitter.com/mvaibhav77)
-- [Portfolio](https://www.vaibhav-portfolio-delta.vercel.app/)
+- [Portfolio](https://vaibhav-portfolio-delta.vercel.app/)
 - [Leetcode](https://www.leetcode.com/mvaibhav77)
 
 Thank you for visiting my GitHub profile! Happy coding!
