@@ -23,7 +23,7 @@ I specialize in building low-latency, event-driven backend systems, decoupling c
 
 ---
 
-### 🛠️ Key Open-Source Projects
+### 🛠️ Key Projects
 
 #### [async-merge](https://github.com/mvaibhav77/async-merge) 
 > *A 3-way (diff3) AST-aware Git merge driver written in Go*
