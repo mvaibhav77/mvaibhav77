@@ -20,7 +20,7 @@ Currently working with Node.js, TypeScript, AWS, PostgreSQL, and ClickHouse at I
 
 ### Featured Projects
 
-#### [async-merge](https://github.com/mvaibhav77/async-merge)
+#### [async-merge](https://www.vbhv.club/projects/async-merge)
 *A Go-based Git merge driver combining AST-aware conflict analysis with LLMs.*
 
 - Resolves three-way (`diff3`) merge conflicts using structural code analysis and LLM-assisted merging.
